@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81460603000",
+    "project_id": "karan-chat-7e7bd",
+    "storage_bucket": "karan-chat-7e7bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81460603000:android:9262bef8259f4431c7e58d",
+        "android_client_info": {
+          "package_name": "com.mrkcr707.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81460603000-93tvts3l65opo4qbachfh78ahqqrf504.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMQHzpbsWXE-AkLq96xlx2m_FtkJ83MAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81460603000-93tvts3l65opo4qbachfh78ahqqrf504.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
